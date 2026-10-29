@@ -8,7 +8,9 @@ The data was recorded with an **iPhone 16 Pro** (LiDAR depth) using the **Specta
 
 *Left: the reconstructed mesh with the camera (red) moving along its estimated trajectory (blue). Right: the live camera image.*
 
-▶️ Videos: [Part 1: RGB-D SLAM from Scratch](https://youtu.be/I0OaAT-vNGM)
+▶️ Videos:
+- [Part 2: RGB-D + IMU SLAM, drift reduction and 3D mesh](https://www.youtube.com/watch?v=2Xeik0asszk) (this repository)
+- [Part 1: RGB-D SLAM from Scratch](https://youtu.be/I0OaAT-vNGM)
 
 ---
 
